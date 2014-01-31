@@ -1,7 +1,7 @@
 {
   "name": "to-base",
   "description": "convert a number to a given base",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "homepage": "https://github.com/dominictarr/to-base",
   "repository": {
     "type": "git",
